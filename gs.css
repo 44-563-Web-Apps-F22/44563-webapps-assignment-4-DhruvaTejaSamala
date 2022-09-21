@@ -1,0 +1,48 @@
+.speech{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+    text-decoration: solid;
+    }
+.song{
+    color:black;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+    text-decoration: solid;
+        }
+.directions{
+    color:rgb(250, 2, 2);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:15px;
+    text-decoration: solid;
+    }
+.GIRLS{
+        color:rgb(196, 4, 225);
+        font-size: 15px;
+    }
+.MABEL{
+        color:rgb(127, 173, 12);
+        font-size: 15px;
+    }
+.GENERAL{
+        color: maroon;
+        font-size:15px;
+    }
+.FREDERIC{
+        color:rgb(0, 59, 186);
+        font-size: 15px;
+    }
+.chorus{
+        color:cornflowerblue;
+        font-size: 15px;
+    }
+p:hover {
+        background-color:rgb(55, 55, 58);
+        color:rgb(254, 254, 254);
+    }
+.act{
+    color :rgb(55, 55, 58);
+}
+.scene{
+    color:darkslateblue;
+}
