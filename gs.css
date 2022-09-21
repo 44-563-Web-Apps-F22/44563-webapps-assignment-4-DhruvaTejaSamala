@@ -14,7 +14,7 @@
     color:rgb(250, 2, 2);
     font-family:Georgia, 'Times New Roman', Times, serif;
     font-size:15px;
-    text-decoration: solid;
+    background-color:chartreuse;
     }
 .GIRLS{
         color:rgb(196, 4, 225);
@@ -28,6 +28,12 @@
         color: maroon;
         font-size:15px;
     }
+.GENERAL:hover {
+    color: black;
+    background-color:aqua;
+    text-shadow: 5px 5px 3px red;
+    display: inline;
+    }
 .FREDERIC{
         color:rgb(0, 59, 186);
         font-size: 15px;
@@ -36,7 +42,7 @@
         color:cornflowerblue;
         font-size: 15px;
     }
-p:hover {
+.directions:hover {
         background-color:rgb(55, 55, 58);
         color:rgb(254, 254, 254);
     }
@@ -46,3 +52,15 @@ p:hover {
 .scene{
     color:darkslateblue;
 }
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  
+  tr:nth-child(even) {
+    background-color: rgba(150, 212, 212, 0.434);
+  }
+  
+  th:nth-child(even),td:nth-child(even) {
+    background-color: rgba(89, 152, 152, 0.4);
+  }
